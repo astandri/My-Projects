@@ -1,3 +1,3 @@
-# Titanic Survival Prediction Solution
+# Data Science with Twitter
 
-In this project, I'll try to tackle Titanic Challenge on Kaggle and get score as high as possible
+Just trying to analyze many cases from twitter. Maybe some EDA, prediction, sentiment analysis, etc
