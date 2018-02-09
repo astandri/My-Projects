@@ -14,4 +14,4 @@ with open('twitter_api_key.txt','r') as file:
 l = TwitterStreamListener()
 
 stream = tweepy.Stream(auth, l)
-stream.filter(track=[], locations=[94.969833,-11.00485,141.021805,6.07573])
+stream.filter(track=['indonesia'], locations=[94.969833,-11.00485,141.021805,6.07573])
