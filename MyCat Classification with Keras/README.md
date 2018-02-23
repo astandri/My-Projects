@@ -1,6 +1,8 @@
 # Image Classification using keras
 
 ## Meet my twin cats, Claudia and Lucy
+![Claudia](https://raw.githubusercontent.com/astandri/My-Projects/master/MyCat%20Classification%20with%20Keras/Claudia/Claudia15.jpg)
+![Lucy](https://raw.githubusercontent.com/astandri/My-Projects/master/MyCat%20Classification%20with%20Keras/Lucy/Lucy7.jpg)
 
 In this project, I'll try to make a model to classify which one is Claudia, which one is Lucy.
 
