@@ -1,6 +1,6 @@
-#Image Classification using keras
+# Image Classification using keras
 
-##Meet my twin cats, Claudia and Lucy
+## Meet my twin cats, Claudia and Lucy
 
 In this project, I'll try to make a model to classify which one is Claudia, which one is Lucy.
 
